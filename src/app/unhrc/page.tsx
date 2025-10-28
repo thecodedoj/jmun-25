@@ -85,7 +85,7 @@ politics. He is looking forward to his first time as a rapporteur at this Chirec
             <div className="flex justify-center">
               <a
 
-                href="/committees/unhrc/BG.pdf"
+                href="https://drive.google.com/drive/folders/1Mr7-B10VRvm4TMzDZ7_Wdj19lw2ujXpR?usp=sharing"
                 target = "_blank"
                 className="group relative inline-flex items-center gap-3 px-8 py-4 bg-gradient-to-r from-sky-500 to-blue-600 rounded-xl font-semibold text-white shadow-lg hover:shadow-2xl hover:shadow-sky-500/50 transition-all duration-300 hover:scale-105"
               >

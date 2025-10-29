@@ -78,7 +78,7 @@ this edition of the JMUN, she's here to make sure no moment goes uncaptured.`,
             </p>
             <div className="flex justify-center">
               <a
-                href="/committees/ip/BG.pdf"
+                href="https://drive.google.com/drive/folders/18lGMSegj1I6RRUtsIS-ZPEb7yqJ31Wgj?usp=sharing"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="group relative inline-flex items-center gap-3 px-6 py-3 bg-gradient-to-r from-sky-500 to-blue-600 rounded-xl font-semibold text-white shadow-lg hover:shadow-2xl hover:shadow-sky-500/50 transition-all duration-300 hover:scale-105"
@@ -110,7 +110,7 @@ this edition of the JMUN, she's here to make sure no moment goes uncaptured.`,
             </p>
             <div className="flex justify-center">
               <a
-                href="/committees/ip/Photo BG.pdf"
+                href="https://drive.google.com/drive/folders/158qYaXmrSZVgrQbw2cDmv0CxnOCnh2AZ?usp=sharing"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="group relative inline-flex items-center gap-3 px-6 py-3 bg-gradient-to-r from-sky-500 to-blue-600 rounded-xl font-semibold text-white shadow-lg hover:shadow-2xl hover:shadow-sky-500/50 transition-all duration-300 hover:scale-105"
